@@ -452,7 +452,7 @@
             "SkuCapacity": 1
           },
           "cmHostingPlan": {
-            "SkuName": "P2V2V2",
+            "SkuName": "P2V2",
             "SkuCapacity": 1
           },
           "cmHostingPlanIsolated": {
