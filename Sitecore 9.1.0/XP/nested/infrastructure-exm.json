@@ -73,7 +73,7 @@
         },
         "Medium": {
           "exmDdsHostingPlan": {
-            "SkuName": "S2",
+            "SkuName": "P1V2",
             "SkuCapacity": 1
           },
           "exmDdsHostingPlanIsolated": {
